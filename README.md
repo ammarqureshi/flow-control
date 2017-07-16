@@ -19,6 +19,8 @@ In GBN, the client establishes a connection to the server, take consecutive chun
 
 
 #### For more information about the implemetnation here is a detailed report:
+[14318618-M-Ammar-Qureshi-FlowControlDoc (2).pdf](https://github.com/ammarqureshi/flow-control/files/1151148/14318618-M-Ammar-Qureshi-FlowControlDoc.2.pdf)
+
 
 
 
