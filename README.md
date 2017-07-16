@@ -18,5 +18,9 @@ In GBN, the client establishes a connection to the server, take consecutive chun
 
 
 
+#### For more information about the implemetnation here is a detailed report:
+
+
+
 
 
