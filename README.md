@@ -12,6 +12,7 @@ The client sends a number of packets, one after the other, also ensured the rece
 
 In GBN, the client establishes a connection to the server, take consecutive chunks of a buffer and then sends these chunks to the server. The server acknowledges the chunks that it receives.
 
+![picture1](https://user-images.githubusercontent.com/17296281/28249322-7d377a64-6a4b-11e7-9f7b-ffca09513c95.png)
 
 
 
