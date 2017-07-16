@@ -1,7 +1,6 @@
-# flow-control
+# Flow control
 
-## Design and implemented two flow control approaches, Stop&Wait and Go-Back-B(GBN).
-## Aim of this project was to get to know sockets, datagram packets and threads and to design a protocol i.e. packet layout and packet handling, for communication between two nodes.
+### Design and implemented two flow control approaches, Stop&Wait and Go-Back-B(GBN). Aim of this project was to get to know sockets, datagram packets and threads and to design a protocol i.e. packet layout and packet handling, for communication between two nodes.
 
 
 
